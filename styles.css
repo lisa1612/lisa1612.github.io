@@ -767,14 +767,14 @@ section .title::after {
 
 /*  Footer  */
 footer {
-  background: #111;
+  background: #360149;
   padding: 6px 16px;
-  color: #888c8d;
+  color: #e1efff;
   text-align: center;
 }
 
 footer span a {
-  color: #1e3551;
+  color: #eiefff;
   text-decoration: none;
 }
 
